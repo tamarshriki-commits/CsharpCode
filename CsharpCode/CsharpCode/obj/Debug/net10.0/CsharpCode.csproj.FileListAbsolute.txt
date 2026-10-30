@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\bin\Debug\net10.0\CsharpCode.exe
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\bin\Debug\net10.0\CsharpCode.deps.json
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\bin\Debug\net10.0\CsharpCode.runtimeconfig.json
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\bin\Debug\net10.0\CsharpCode.dll
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\bin\Debug\net10.0\CsharpCode.pdb
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\obj\Debug\net10.0\CsharpCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\obj\Debug\net10.0\CsharpCode.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\obj\Debug\net10.0\CsharpCode.AssemblyInfo.cs
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\obj\Debug\net10.0\CsharpCode.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\obj\Debug\net10.0\CsharpCode.sourcelink.json
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\obj\Debug\net10.0\CsharpCode.dll
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\obj\Debug\net10.0\refint\CsharpCode.dll
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\obj\Debug\net10.0\CsharpCode.pdb
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\obj\Debug\net10.0\CsharpCode.genruntimeconfig.cache
+C:\Users\User\Desktop\CsharpCode\CsharpCode\CsharpCode\obj\Debug\net10.0\ref\CsharpCode.dll
