@@ -15,6 +15,7 @@ public class CourseOfferingManager
         return offerings;
     }
 
+    
     private bool IsTimeOverlapping(
         TimeSpan start1, TimeSpan end1,
         TimeSpan start2, TimeSpan end2)
@@ -22,6 +23,8 @@ public class CourseOfferingManager
         return start1 < end2 && end1 > start2;
     }
 
+    
+    
     public bool IsLecturerAvailable(
         Lecturer lecturer,
         DateTime startDate,
@@ -60,6 +63,9 @@ public class CourseOfferingManager
         return true;
     }
 
+    
+    
+    
     public bool IsClassroomAvailable(
         Classroom classroom,
         DateTime startDate,
@@ -100,6 +106,10 @@ public class CourseOfferingManager
         return true;
     }
 
+    
+    
+    
+    
     public List<Classroom> GetAvailableClassrooms(
         List<Classroom> classrooms,
         Lecturer lecturer,
@@ -132,6 +142,10 @@ public class CourseOfferingManager
         return available;
     }
 
+    
+    
+    
+    
     public bool AddOffering(CourseOffering offering)
     {
         if (!IsLecturerAvailable(
